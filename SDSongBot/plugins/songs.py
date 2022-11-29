@@ -1,7 +1,4 @@
-# Plugin by @Mr_Dark_Prince
-#SDBOTs <https://t.me/SDBOTs_Inifinity>
-
-import os
+#import os
 import requests
 import aiohttp
 import youtube_dl
